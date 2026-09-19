@@ -1,4 +1,3 @@
-````markdown
 # WebGPU Shaders
 
 A learning project for exploring WebGPU and WGSL from scratch: a fullscreen
