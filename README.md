@@ -45,6 +45,8 @@ the canvas `resolution` and elapsed `time`, updated every frame.
 
 ## What's next
 
+* 🖱️ **Mouse interaction** — pass mouse position from JavaScript to the shader
+* 🎯 **Object interaction** — detect whether a click is inside the sphere's projection
 * 🎨 **Colored sphere** — replace the grayscale output with color
 * 💡 **Better lighting** — add some light to the dark side of the sphere
 * ✨ **Reflections** — make the sphere look shiny
