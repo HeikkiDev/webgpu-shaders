@@ -1,4 +1,3 @@
-````markdown
 # WebGPU Shaders
 
 [🚀 **Live Demo**](https://heikkidev.github.io/webgpu-shaders/)
