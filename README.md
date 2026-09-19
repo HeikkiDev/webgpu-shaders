@@ -1,6 +1,8 @@
 ````markdown
 # WebGPU Shaders
 
+[🚀 **Live Demo**](https://heikkidev.github.io/webgpu-shaders/)
+
 A learning project for exploring WebGPU and WGSL from scratch: a fullscreen
 fragment shader that creates and lights a sphere using math, with real-time animation.
 
